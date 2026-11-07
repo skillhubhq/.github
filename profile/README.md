@@ -9,8 +9,8 @@
 <p align="center">A self-hosted home for useful agent skills.<br>Discover them together. Review what you share. Bring them to the tools you use.</p>
 
 <p align="center">
-  <a href="https://github.com/skillhubhq/skillhub">Explore SkillHub</a> ·
-  <a href="https://github.com/skillhubhq/skillhub/blob/main/docs/README.md">Documentation</a> ·
+  <a href="https://skills.codectn.com">Explore SkillHub</a> ·
+  <a href="https://skills.codectn.com/docs/">Documentation</a> ·
   <a href="https://github.com/skillhubhq/skillhub/discussions">Community</a> ·
   <a href="https://github.com/skillhubhq/skillhub/blob/main/README.zh-CN.md">简体中文</a>
 </p>
@@ -30,8 +30,8 @@ SkillHub brings a Web community, a desktop app and a CLI together around a share
 
 ### Start here
 
-- **Use or self-host:** [Get started](https://github.com/skillhubhq/skillhub#get-started) · [Deployment guide](https://github.com/skillhubhq/skillhub/blob/main/docs/deployment-checklist.md)
-- **Get the clients:** [Build and installation guide](https://github.com/skillhubhq/skillhub/blob/main/docs/distribution.md) · [Available releases](https://github.com/skillhubhq/skillhub/releases)
+- **Use or self-host:** [Get started](https://github.com/skillhubhq/skillhub#get-started) · [Deployment guide](https://skills.codectn.com/docs/deployment-checklist/)
+- **Get the clients:** [Build and installation guide](https://skills.codectn.com/docs/distribution/) · [Available releases](https://github.com/skillhubhq/skillhub/releases)
 - **Help improve SkillHub:** [Contributing](https://github.com/skillhubhq/skillhub/blob/main/CONTRIBUTING.md) · [Report a bug](https://github.com/skillhubhq/skillhub/issues/new/choose) · [Questions and ideas](https://github.com/skillhubhq/skillhub/discussions)
 - **Report a vulnerability:** [Private security reporting](https://github.com/skillhubhq/skillhub/security/advisories/new)
 
